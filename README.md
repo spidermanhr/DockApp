@@ -12,30 +12,33 @@
     * `Left` (Lijevo)
     * `Right` (Desno)
 * **Quick Launch logika:** Omogućuje vam da ponovnim klikom na ikonu (npr. *File Explorer*) otvorite potpuno novi prozor aplikacije umjesto prebacivanja na postojeći.
-* **Run as Admin:** U postavkama možete definirati da se određene aplikacije uvijek pokreću s povišenim privilegijama.
-* **Dock Background Color:** U postavkama možete definirati boju docka.
-* **Laka organizacija:** Dodajte aplikacije koje najčešće koristite za maksimalnu produktivnost.
+* **Automatsko pokretanje:** U postavkama možete postaviti da se DockApp podiže zajedno sa sustavom (**Run at Windows Startup**).
+* **Run as Admin:** Određene aplikacije možete konfigurirati da se uvijek pokreću s povišenim privilegijama.
+* **Prilagodba izgleda:** Moguće je definirati pozadinsku boju docka (**Dock Background Color**) kako bi se savršeno uklopio u vašu temu.
+* **Laka organizacija:** Brzo dodajte aplikacije koje najčešće koristite za maksimalnu produktivnost.
 
 ---
 
 ## 🛠️ Configuration & Options
 
-Unutar aplikacije dostupne su sljedeće opcije za prilagodbu:
+Unutar aplikacije dostupne su sljedeće opcije na engleskom jeziku:
 
 | Option | Description |
 | :--- | :--- |
 | **Position** | Choose the edge of the screen where the dock will appear. |
+| **Run at Windows Startup** | Enable the app to start automatically when you log in. |
 | **Run as Administrator** | Set specific apps to always launch with admin privileges. |
+| **Dock Background Color** | Customize the color of the dock background. |
 | **Pin to Dock** | Add your favorite executable files or shortcuts. |
 | **Always on Top** | Keep the DockApp visible even when other windows are maximized. |
 
 ---
 
-## 💻 Instalacija
+## 💻 Instalacija i korištenje
 
 1. Preuzmite instalacijsku datoteku.
-2. Pokrenite aplikaciju i desnim klikom pristupite opciji **Settings**.
-3. Prilagodite poziciju i dodajte željene prečace.
+2. Pokrenite aplikaciju.
+3. Desnim klikom na dock otvorite **Settings** kako biste prilagodili poziciju, boju i dodali prečace.
 
 ---
 *Bilješka: Ovaj program je namijenjen korisnicima koji žele čišći Windows 11 Taskbar, a brzi pristup aplikacijama žele zadržati u stilu klasičnog Quick Launcha.*
