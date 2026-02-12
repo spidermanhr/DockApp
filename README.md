@@ -12,7 +12,8 @@
     * `Left` (Lijevo)
     * `Right` (Desno)
 * **Quick Launch logika:** Omogućuje vam da ponovnim klikom na ikonu (npr. *File Explorer*) otvorite potpuno novi prozor aplikacije umjesto prebacivanja na postojeći.
-* **Run as Administrator:** U postavkama možete definirati da se određene aplikacije uvijek pokreću s povišenim privilegijama.
+* **Run as Admin:** U postavkama možete definirati da se određene aplikacije uvijek pokreću s povišenim privilegijama.
+* **Dock Background Color:** U postavkama možete definirati boju docka.
 * **Laka organizacija:** Dodajte aplikacije koje najčešće koristite za maksimalnu produktivnost.
 
 ---
