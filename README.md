@@ -42,6 +42,7 @@ Unutar aplikacije dostupne su sljedeće opcije na engleskom jeziku:
 
 ## 💻 Screenshot
 ![DockApp Screenshot 1](https://raw.githubusercontent.com/spidermanhr/DockApp/master/guick_launch.jpg)
+![DockApp Screenshot 2](https://raw.githubusercontent.com/spidermanhr/DockApp/master/guick_launch_2.jpg)
 
 
 ---
