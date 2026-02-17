@@ -15,7 +15,7 @@
 * **Automatsko pokretanje:** U postavkama možete postaviti da se DockApp podiže zajedno sa sustavom (**Run at Windows Startup**).
 * **Run as Admin:** Određene aplikacije možete konfigurirati da se uvijek pokreću s povišenim privilegijama.
 * **Prilagodba izgleda:** Moguće je definirati pozadinsku boju docka (**Dock Background Color**) kako bi se savršeno uklopio u vašu temu.
-* **Laka organizacija:** Brzo dodajte aplikacije koje najčešće koristite za maksimalnu produktivnost.
+* **Laka organizacija:** Brzo dodajte aplikacije koje najčešće koristite za maksimalnu produktivnost.https://github.com/spidermanhr/DockApp/blob/master/guick_launch.jpg
 
 ---
 
@@ -41,7 +41,8 @@ Unutar aplikacije dostupne su sljedeće opcije na engleskom jeziku:
 3. Desnim klikom na dock otvorite **Settings** kako biste prilagodili poziciju, boju i dodali prečace.
 
 ## 💻 Screenshot
-
+![DockApp Screenshot 1](https://raw.githubusercontent.com/spidermanhr/DockApp/master/guick_launch.jpg)
+![DockApp Screenshot 2](https://raw.githubusercontent.com/spidermanhr/DockApp/master/guick_launch_2.jpg)
 
 
 ---
