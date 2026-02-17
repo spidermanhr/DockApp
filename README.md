@@ -40,5 +40,9 @@ Unutar aplikacije dostupne su sljedeće opcije na engleskom jeziku:
 2. Pokrenite aplikaciju.
 3. Desnim klikom na dock otvorite **Settings** kako biste prilagodili poziciju, boju i dodali prečace.
 
+## 💻 Screenshot
+
+
+
 ---
 *Bilješka: Ovaj program je namijenjen korisnicima koji žele čišći Windows 11 Taskbar, a brzi pristup aplikacijama žele zadržati u stilu klasičnog Quick Launcha.*
